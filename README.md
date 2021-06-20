@@ -2,10 +2,10 @@
 
 A description of this package.
 
-Alert.swift - 
-AABlurModalView.swift
-AGContentMIMEType.swift
-Animations.swift
+Alert.swift - A Quick Alert ((title: String, titleColor: UIColor, message: String, preferredStyle: UIAlertController.Style, titleAction: String, actionStyle: UIAlertAction.Style, vc: UIViewController)
+AABlurModalView.swift -  Fullscreen overlay view component with blurred background developed in Swift 
+AGContentMIMEType.swift - 
+Animations.swift - UITableView Animations (makeFade, makeMoveUpWithBounce, makeSlideIn, makeMoveUpWithFade)
 Animator.swift
 AUPickerCell.swift
 Coordinator.swift
